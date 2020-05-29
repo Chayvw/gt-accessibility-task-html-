@@ -1,11 +1,9 @@
 # gt-accessibility-task-html
 ## Description 
 
-This webpage has been reviewed and edited to give semantic meaning to the HTML markup. This was done by removing a number of <div></div> tags and replacing them with smenantic HTML tags to assist web browsers broden accessiblity no matter the socailecomoical scape.
+This webpage has been reviewed and edited to give semantic meaning to the HTML markup. This was done by removing a number of <div></div> tags and replacing them with semantic HTML tags to assist web browsers broaden accessiblity no matter the socailecomoical scape.
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -27,8 +25,8 @@ The HTML file offers a look at semantic html mark up with accessibility in progr
 Project completed individually by me for GT Full Stack Flex assignment one
 
 
-## License
-MIT License
+## MIT License
+
 
 Copyright (c) [2020] [Chay Williams]
 
